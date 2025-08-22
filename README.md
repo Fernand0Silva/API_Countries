@@ -14,17 +14,8 @@ https://restcountries.com/v3.1/all
 
 # 📁 Estrutura do Projeto 
 InforPases
-src/
-├── main/
-│ ├── java/
-│ │ └── com/
-│ │ └── Api/
-│ │ └── InforPaises/
-│ │ ├── Controllers/
-│ │ ├── Services/
-│ │ └── Config/
-│ └── resources/
-│ └── application.properties
+src > main > java >com /Api > InforPaises / Controllers /  Services / Config / resources >  application.properties
+
 
 # 🚀 Como Rodar o Projeto
 - Ter o java 21 ou acima
